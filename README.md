@@ -1,0 +1,1 @@
+This is my second Project. I created a main-page with some more advanced CSS including Flexbox. You can have a look at: https://waechtler-hannes.github.io/odin-landing-page/
